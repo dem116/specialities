@@ -9,20 +9,20 @@ Una vez clonado el ejercico deberás hacer `npm install` en terminal para instal
 ## Objetivo del Ejercicio
 
 1. Ejecución del Ejercicio:
-  - Crea un archivo llamado `app.js` donde irá tu código.
+  - Crea un archivo llamado `app.js` donde irá tu código. CHECK
 
 2. Creación del Servidor:
-  - Configura un servidor Express.
-  - Crea rutas para la página principal (/) y diferentes especialidades como marketing (/marketing), developers (/developers), etc...
-  - Implementa el manejo de errores 404 para rutas no definidas.
-  - Las rutas serán las mismas de las `specialty` (abajo hay un objeto con datos que usarás para crear lo qiue pide el ejercicio)
+  - Configura un servidor Express. CHECK
+  - Crea rutas para la página principal (/) y diferentes especialidades como marketing (/marketing), developers (/developers), etc...CHEK
+  - Implementa el manejo de errores 404 para rutas no definidas. CHECK
+  - Las rutas serán las mismas de las `specialty` (abajo hay un objeto con datos que usarás para crear lo qiue pide el ejercicio) CHECK
 
 3. Filtrado de Usuarios por Especialidad:
-  - Crea una función para filtrar usuarios por su especialidad.
+  - Crea una función para filtrar usuarios por su especialidad. CHEK
 
 4. Generación de Páginas HTML:
-  - Utiliza literal string para construir páginas HTML directamente en el código..
-  - Crea una página para cada especialidad que muestre el título de la página, el número de personas y los detalles de cada usuario.
+  - Utiliza literal string para construir páginas HTML directamente en el código.. CHEK
+  - Crea una página para cada especialidad que muestre el título de la página, el número de personas y los detalles de cada usuario. CHEK
 
 5. Prueba de la Aplicación:
   - Abre tu navegador y visita las diferentes rutas, por ejemplo:
